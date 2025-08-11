@@ -1,31 +1,23 @@
-# CTF Writeups
+# 🏆 CTF Write-ups – Resolução de Desafios Capture The Flag
 
-## Visão Geral
-Este repositório reúne **writeups** (resoluções documentadas) de desafios de **CTF (Capture The Flag)** que participei ou estudei. A proposta é compartilhar o passo a passo da resolução, as ferramentas utilizadas e as lições aprendidas em cada desafio.
+Este repositório documenta a **resolução passo a passo** de desafios de **Capture The Flag (CTF)**, com explicações técnicas e estratégicas.
 
----
+## 🔍 Importância
+CTFs são excelentes para **treinar habilidades práticas**, testar conhecimentos e **desenvolver raciocínio lógico** em cenários realistas de cibersegurança.
 
-### Por que participar de CTFs?
-* Aprendizado prático e divertido.
-* Contato com técnicas reais usadas por atacantes.
-* Desenvolvimento de raciocínio lógico e técnico.
-* Preparação para entrevistas e certificações.
+## 🎯 Por que estudar
+- Melhora técnicas ofensivas e defensivas.  
+- Aumenta experiência prática em **diferentes áreas da segurança**.  
+- Desenvolve rapidez na resolução de problemas técnicos.  
 
-### Temas recorrentes nos desafios
-* Exploração Web (**XSS**, **SQLi**, **SSTI**, etc).
-* **Reversing** e engenharia reversa.
-* Exploração binária (**BOF**, format string).
-* Forense digital.
-* Criptografia e esteganografia.
-* **OSINT** e reconhecimento.
-* **Privilege escalation**.
+## 📌 Conteúdo Abordado
+- Write-ups de CTFs online e presenciais.
+- Categorias: Forense, Web, Criptografia, Exploitation, OSINT.
+- Ferramentas e scripts utilizados.
+- Estratégias e aprendizados obtidos.
 
-### Estrutura dos writeups
-* Descrição do desafio.
-* Passo a passo da resolução.
-* Ferramentas utilizadas.
-* Lições aprendidas.
+> **Palavras-chave:** CTF, write-up, hacking, desafios, segurança ofensiva, segurança defensiva, forense, OSINT.
 
 ---
 
-**Status**: O conteúdo será atualizado conforme novos desafios forem resolvidos e documentados.
+🔗 [⬅️ Voltar para o Cyber Security Lab](https://github.com/DarwinSecc/cyber-security-lab)
