@@ -20,4 +20,4 @@ CTFs são excelentes para **treinar habilidades práticas**, testar conhecimento
 
 ---
 
-🔗 [⬅️ Voltar para o Cyber Security Lab](https://github.com/DarwinSecc/cyber-security-lab)
+🔗 [⬅️ Voltar para o Cybersecurity Portfolio](https://github.com/DarwinSecc/cybersecurity-portfolio)
